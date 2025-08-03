@@ -1,4 +1,4 @@
-# **📊 Sales Performance Dashboard**
+# **📊 Sales Distribution Dashboard**
 
 This project presents a comprehensive Sales Performance Dashboard built using Power BI, SQL and Excel, designed to analyze monthly sales trends, regional performance, and customer distribution across various countries.
 
@@ -17,7 +17,7 @@ The dashboard helps business analysts and decision-makers explore:
 
 The dashboard is powered by a combination of:
 
-- Sales File.xlsx: Contains raw sales transactions, customer details, and monthly targets
+- <a href="https://github.com/SurajRamteke39/Sales_Dashboard/commit/6c51b53287462dd8799dc03306ce8794d95d041a">Sales Data</a>: Contains raw sales transactions, customer details, and monthly targets
 - Sales Data Stored Procedure.sql: A SQL stored procedure that transforms the raw data for analysis
 - Data is processed using SQL and then connected to Power BI for visualization.
 
@@ -25,9 +25,9 @@ The dashboard is powered by a combination of:
 ## **🛠️ Technologies/Tools Used**
 
 - Microsoft Power BI
-- Microsoft SQL Server
+- MySQL
 - Microsoft Excel
-- Data Modeling & Transformation
+- Data Manipulation, Cleaning, Modeling & Transformation
 - DAX & Power Query
 
   
@@ -47,7 +47,7 @@ Custom tables were created to organize and clean the data:
 
 This stored procedure automates the data preparation process:
 
-- Cleans and stages raw sales data by removing invalid entries.
+- Cleans raw sales data by removing invalid entries.
 - Filters customer data to include only those with valid region information.
 - Loads monthly sales targets for performance comparison.
 - Joins sales with customer region data to enable region-wise analysis.
@@ -84,4 +84,4 @@ Note: This dashboard is view-only and requires no setup.
 - Sales targets are consistently met or exceeded in the first half of the year.
 - Export regions dominate overall sales volume.
 - Certain products and regions show recurring high performance, indicating strong market demand.
-- Customer distribution is heavily skewed toward Indian regions, offering opportunities for localized strategies.
+- Customer distribution is concentrated toward Indian regions, offering opportunities for localized strategies.
