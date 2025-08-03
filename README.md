@@ -22,7 +22,7 @@ The dashboard is powered by a combination of:
 - Data is processed using SQL and then connected to Power BI for visualization.
 
 
-## **🛠️ Technologies/Tools Used**
+## **🛠️ Technologies Used**
 
 - Microsoft Power BI
 - MySQL
