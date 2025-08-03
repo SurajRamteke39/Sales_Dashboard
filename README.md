@@ -7,10 +7,10 @@ This project presents a comprehensive Sales Performance Dashboard built using Po
 
 The dashboard helps business analysts and decision-makers explore:
 
-Monthly sales performance vs targets
-Regional and country-wise sales distribution
-Customer segmentation and product-level insights
-High-performing products and regions
+- Monthly sales performance vs targets
+- Regional and country-wise sales distribution
+- Customer segmentation and product-level insights
+- High-performing products and regions
 
 
 ## **📁 Data Source**
@@ -18,7 +18,7 @@ High-performing products and regions
 The dashboard is powered by a combination of:
 
 - Sales File.xlsx: Contains raw sales transactions, customer details, and monthly targets
-- Sales Data Stored Procedure.sql: A SQL stored procedure that stages and transforms the raw data for analysis
+- Sales Data Stored Procedure.sql: A SQL stored procedure that transforms the raw data for analysis
 - Data is processed using SQL and then connected to Power BI for visualization.
 
 
