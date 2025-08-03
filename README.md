@@ -1,6 +1,6 @@
 # **📊 Sales Performance Dashboard**
 
-This project presents a comprehensive Sales Performance Dashboard built using Power BI, designed to analyze monthly sales trends, regional performance, and customer distribution across various countries.
+This project presents a comprehensive Sales Performance Dashboard built using Power BI, SQL and Excel, designed to analyze monthly sales trends, regional performance, and customer distribution across various countries.
 
 
 ## **🔍 Overview**
